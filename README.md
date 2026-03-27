@@ -11,7 +11,7 @@ Hi, I’m a Computer Science Engineering undergraduate passionate about building
 ![](https://github-readme-stats.vercel.app/api?username=Satyam-123336&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Satyam-123336&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam-123336&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![GitHub Stats](https://streak-stats.demolab.com?user=Satyam-123336&theme=default&hide_border=true)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Satyam-123336&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
