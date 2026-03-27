@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm SATYAM SAMANTA
 Hi, I’m a Computer Science Engineering undergraduate passionate about building impactful tech solutions and continuously learning new technologies.<br><br>I enjoy working on projects that combine software development, AI, and real-world problem solving. From developing AI-based systems to creating full-stack web applications, I’m always exploring ways to turn ideas into practical solutions.
 
 
