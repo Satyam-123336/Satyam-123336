@@ -1,6 +1,12 @@
 # Hi 👋, I'm SATYAM SAMANTA
 Hi, I’m a Computer Science Engineering undergraduate passionate about building impactful tech solutions and continuously learning new technologies.<br><br>I enjoy working on projects that combine software development, AI, and real-world problem solving. From developing AI-based systems to creating full-stack web applications, I’m always exploring ways to turn ideas into practical solutions.
 
+<p align="center">
+  <a href="https://github.com/Satyam-123336">
+    <img src="https://img.shields.io/badge/@Satyam-123336?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Satyam-123336&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Satyam-123336" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-samanta-a4a243293)
@@ -13,13 +19,25 @@ Hi, I’m a Computer Science Engineering undergraduate passionate about building
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Satyam-123336&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Satyam-123336&layout=compact&theme=radical)
 
+## 🐍 ***Contribution Eater***
+
+![snake gif](https://github.com/Satyam-123336/Satyam-123336/blob/output/github-snake-dark.svg)
+
+## 🧱 Contribution Matrix
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyam-123336&theme=radical" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyam-123336&theme=react-dark&hide_border=true" />
+</div>
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Satyam-123336&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=Satyam-123336&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Satyam-123336&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Satyam-123336&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
