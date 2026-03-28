@@ -17,9 +17,9 @@ Hi, I’m a Computer Science Engineering undergraduate passionate about building
 # 📊 GitHub Stats:
 <div align="center">
 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Satyam-123336&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Satyam-123336&show_icons=true&theme=radical" /><br/>
 
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Satyam-123336&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Satyam-123336&theme=radical" /><br/>
 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Satyam-123336&layout=compact&theme=radical" />
 
