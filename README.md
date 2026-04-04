@@ -10,8 +10,8 @@ A Computer Science Engineering undergraduate passionate about building impactful
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-samanta-a4a243293)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamsamanta10@gmail.com) 
 [![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/Satyam_Sam2004)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamsamanta10@gmail.com) 
 
 ## 📄 Resume:
 [![Resume](https://img.shields.io/badge/Resume-0A66C2?logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1Hs3WXzebF1A-g40xIH4QYXSzpkB_QapR/view?usp=sharing)
