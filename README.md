@@ -14,7 +14,7 @@ A Computer Science Engineering undergraduate passionate about building impactful
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamsamanta10@gmail.com) 
 
 ## 📄 Resume:
-[![Resume](https://img.shields.io/badge/Resume-0A66C2?logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1dcNS5RMhKlc2z6OJBHvXgvdFiHZOlv4B/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-0A66C2?logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/16M4xdwRxhmjBU13J9ZjNDIs42BuoLVHX/view?usp=sharing)
 
 # 💻 Tech Stack:
 
