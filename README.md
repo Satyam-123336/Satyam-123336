@@ -32,7 +32,7 @@ A Computer Science Engineering undergraduate passionate about building impactful
 
 </div>
 
-## 🐍 ***Contribution Eater***
+## 🐍 Contribution Eater
 
 ![snake gif](https://github.com/Satyam-123336/Satyam-123336/blob/output/github-snake-dark.svg)
 
@@ -49,8 +49,4 @@ A Computer Science Engineering undergraduate passionate about building impactful
 <div align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=Satyam-123336&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Satyam-123336&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
