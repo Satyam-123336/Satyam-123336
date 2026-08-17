@@ -11,6 +11,7 @@ A Computer Science Engineering undergraduate passionate about building impactful
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-samanta-a4a243293)
 [![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/Satyam_Sam2004)
+[![Substack](https://img.shields.io/badge/Substack-FF6719.svg?logo=substack&logoColor=white)](https://substack.com/@satysam04)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamsamanta10@gmail.com) 
 
 # 💻 Tech Stack:
