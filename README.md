@@ -155,15 +155,15 @@ class SatyamSamanta:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyam-123336&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyam-123336&theme=tokyonight&cache_seconds=1800" width="100%" />
 
 </div>
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satyam-123336&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satyam-123336&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Satyam-123336&theme=tokyonight&utcOffset=5.5" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Satyam-123336&theme=tokyonight&cache_seconds=1800" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Satyam-123336&theme=tokyonight&utcOffset=5.5&cache_seconds=1800" width="32%" />
 
 </div>
 
