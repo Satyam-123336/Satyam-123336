@@ -202,6 +202,6 @@ class SatyamSamanta:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
-<sub>Built with 💜 by Satyam Samanta — <i>one commit at a time</i></sub>
+<sub>Built with 💜 by Satyam Samanta - <i>one commit at a time</i></sub>
 
 </div>
