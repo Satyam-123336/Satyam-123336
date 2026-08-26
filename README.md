@@ -176,13 +176,12 @@ class SatyamSamanta:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satyam-123336/Satyam-123336/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Satyam-123336/Satyam-123336/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Satyam-123336/Satyam-123336/output/github-snake-dark.svg" />
 </picture>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Satyam-123336/Satyam-123336/output/ocean.gif" alt="ocean contribution gif" />
+
 
 </div>
 
